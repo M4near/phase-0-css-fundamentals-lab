@@ -1,5 +1,35 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: 000;
+}
+
+header,
+figure {
+  text-align:center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: aliceblue;
+}
+
+figcaption {
+  font-size: small;
+  text-align:center;
+}
+
+#featured-property p {
+  text-align:center;
+  width:800px;
+  margin:auto;
+  padding-bottom: 10px;
+}
+
+#details div {
+float: left;
+width:25%;
+text-align:center;
+background-color: red;
 }
